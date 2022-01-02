@@ -9,6 +9,7 @@ Principles to follow:
 
 Now for what I've learned...👇
 
-| Date       | What I learned                                                                                                                        | Tags       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 2021-12-31 | Hashtags should be capitalized [for accessibility](https://www.boia.org/blog/make-your-hashtags-accessible). #ThisThing > #thisthing. | #marketing |
+| Date       | What I learned                                                                                                                        | Tags             |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 2021-12-31 | Hashtags should be capitalized [for accessibility](https://www.boia.org/blog/make-your-hashtags-accessible). #ThisThing > #thisthing. | #Marketing       |
+| 2022-01-01 | 1% better every day makes you 3700% better at the end of the year.                                                                    | #SelfImprovement |
