@@ -9,6 +9,6 @@ Principles to follow:
 
 Now for what I've learned...👇
 
-| Date       | What I learned                                                                                                                                                    | Tags       |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 2021-12-31 | 1st letter of hashtags should be capitalized [for accessibility](https://www.boia.org/blog/make-your-hashtags-accessible). #CapitalizedWords > #capitalizedwords. | #marketing |
+| Date       | What I learned                                                                                                                                      | Tags       |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 2021-12-31 | Hashtags should be capitalized [for accessibility](https://www.boia.org/blog/make-your-hashtags-accessible). #CapitalizedWords > #capitalizedwords. | #marketing |
