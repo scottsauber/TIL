@@ -16,4 +16,5 @@ Now for what I've learned...👇
 | 2022-01-02 | [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/) was a thing.                                                 | #Azure           |
 | 2022-01-07 | Cypress commands run in a browser. Tasks run in Node.                                                                                 | #JavaScript      |
 | 2022-01-08 | var blah = new Blah() and Blah blah = new() are diff. Latter is not null.                                                             | #DotNet          |
+| 2022-01-10 | Docker layers are a [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree).                                                         | #Docker          |
 
