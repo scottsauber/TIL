@@ -18,3 +18,4 @@ Now for what I've learned...👇
 | 2022-01-08 | var blah = new Blah() and Blah blah = new() are diff. Latter is not null.                                                             | #DotNet          |
 | 2022-01-10 | Docker layers are a [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree).                                                         | #Docker          |
 | 2022-01-12 | Chrome updated in 2021 to block [Reverse Tabnabbing](https://www.zdnet.com/article/chrome-to-block-tab-nabbing-attacks/)              | #Security        |
+| 2022-01-13 | Performance Decay: starts fast but worsens over time (as more data is added)                                                          | #Performance     |
