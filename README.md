@@ -19,3 +19,4 @@ Now for what I've learned...👇
 | 2022-01-10 | Docker layers are a [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree).                                                         | #Docker          |
 | 2022-01-12 | Chrome updated in 2021 to block [Reverse Tabnabbing](https://www.zdnet.com/article/chrome-to-block-tab-nabbing-attacks/)              | #Security        |
 | 2022-01-13 | Performance Decay: starts fast but worsens over time (as more data is added)                                                          | #Performance     |
+| 2022-01-18 | What a [preconnect link type](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/preconnect) is                             | #Web             |
