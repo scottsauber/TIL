@@ -22,5 +22,8 @@ Now for what I've learned...👇
 | 2022-01-18 | What a [preconnect link type](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/preconnect) is                             | #Web             |
 | 2022-01-18 | What a [prefetch link type](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/prefetch) is                                 | #Web             |
 | 2022-02-06 | What [Situational Leadership](https://www.albrightglobal.com/post/leading-others-situational-leadership) is                           | #Leadership      |
-| 2022-02-13 | The name for strongly typed value objects (like CustomerId) are [Tiny Types](http://oneeyedmen.com/inline-tiny-types.html)            | #Architecture      |
+| 2022-02-13 | The name for strongly typed value objects (like CustomerId) are [Tiny Types](http://oneeyedmen.com/inline-tiny-types.html)            | #Architecture    |
+| 2022-02-13 | Pick and Omit are used in TS to create DTO-like types                                                                                 | #TypeScript      |
+
+
 
