@@ -25,6 +25,6 @@ Now for what I've learned...👇
 | 2022-02-13 | The name for strongly typed value objects (like CustomerId) are [Tiny Types](http://oneeyedmen.com/inline-tiny-types.html)            | #Architecture    |
 | 2022-02-13 | Pick and Omit are used in TS to create DTO-like types                                                                                 | #TypeScript      |
 | 2022-02-21 | What RoutingTestingModule is in Angular                                                                                               | #Angular         |
-| 2022-02-23 | Feeling nervous? Tell yourself [3 things you're grateful for](https://twitter.com/pgatour/status/1483952664119431168                  | #SelfCare        |
+| 2022-02-23 | Feeling nervous? Tell yourself [3 things you're grateful for](https://twitter.com/pgatour/status/1483952664119431168)                 | #SelfCare        |
 
 
