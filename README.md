@@ -26,5 +26,4 @@ Now for what I've learned...👇
 | 2022-02-13 | Pick and Omit are used in TS to create DTO-like types                                                                                 | #TypeScript      |
 | 2022-02-21 | What RoutingTestingModule is in Angular                                                                                               | #Angular         |
 | 2022-02-23 | Feeling nervous? Tell yourself [3 things you're grateful for](https://twitter.com/pgatour/status/1483952664119431168)                 | #SelfCare        |
-
-
+| 2022-04-08 | Conflict Debt is the sum of all undiscussed and unresolved issues that stand in the way of progress.                                  | #Conflict        |
