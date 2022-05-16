@@ -18,7 +18,7 @@ Now for what I've learned...👇
 | 2022-01-08 | var blah = new Blah() and Blah blah = new() are diff. Latter is not null.                                                             | #DotNet          |
 | 2022-01-10 | Docker layers are a [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree).                                                         | #Docker          |
 | 2022-01-12 | Chrome updated in 2021 to block [Reverse Tabnabbing](https://www.zdnet.com/article/chrome-to-block-tab-nabbing-attacks/)              | #Security        |
-| 2022-01-13 | Performance Decay: starts fast but worsens over time (as more data is added)                                                          | #Performance     |
+| 2022-01-13 | Performance Decay: starts fast, worsens over time (as more data is added)                                                             | #Performance     |
 | 2022-01-18 | What a [preconnect link type](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/preconnect) is                             | #Web             |
 | 2022-01-18 | What a [prefetch link type](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/prefetch) is                                 | #Web             |
 | 2022-02-06 | What [Situational Leadership](https://www.albrightglobal.com/post/leading-others-situational-leadership) is                           | #Leadership      |
@@ -26,4 +26,4 @@ Now for what I've learned...👇
 | 2022-02-13 | Pick and Omit are used in TS to create DTO-like types                                                                                 | #TypeScript      |
 | 2022-02-21 | What RoutingTestingModule is in Angular                                                                                               | #Angular         |
 | 2022-02-23 | Feeling nervous? Tell yourself [3 things you're grateful for](https://twitter.com/pgatour/status/1483952664119431168)                 | #SelfCare        |
-| 2022-04-08 | Conflict Debt is the sum of all undiscussed and unresolved issues that stand in the way of progress.                                  | #Conflict        |
+| 2022-04-08 | Conflict Debt: sum of all unresolved issues that stand in the way of progress.                                                        | #Conflict        |
