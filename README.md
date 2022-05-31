@@ -27,3 +27,4 @@ Now for what I've learned...👇
 | 2022-02-21 | What RoutingTestingModule is in Angular                                                                                               | #Angular         |
 | 2022-02-23 | Feeling nervous? Tell yourself [3 things you're grateful for](https://twitter.com/pgatour/status/1483952664119431168)                 | #SelfCare        |
 | 2022-04-08 | Conflict Debt: sum of unresolved issues that stand in the way of progress.                                                            | #Conflict        |
+| 2022-05-30 | [scroll-snap-type](https://twitter.com/Steve8708/status/1531388545960583168) is a thing                                               | #CSS            |
