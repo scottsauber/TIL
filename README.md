@@ -29,4 +29,4 @@ Now for what I've learned...👇
 | 2022-04-08 | Conflict Debt: sum of unresolved issues that stand in the way of progress.                                                            | #Conflict        |
 | 2022-05-30 | [scroll-snap-type](https://twitter.com/Steve8708/status/1531388545960583168) is a thing                                               | #CSS             |
 | 2022-07-30 | [Gall's Law](https://personalmba.com/galls-law/#:~:text=What%20Is%20'Gall's%20Law'%3F,then%20improve%20it%20over%20time)              | #Architecture    |
-
+| 2022-09-05 | [TS React Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/advanced/patterns_by_usecase/#wrappingmirroring)           | #TypeScript    |
