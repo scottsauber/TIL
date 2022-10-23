@@ -31,3 +31,4 @@ Now for what I've learned...👇
 | 2022-07-30 | [Gall's Law](https://personalmba.com/galls-law/#:~:text=What%20Is%20'Gall's%20Law'%3F,then%20improve%20it%20over%20time)              | #Architecture    |
 | 2022-09-05 | [TS React Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/advanced/patterns_by_usecase/#wrappingmirroring)           | #TypeScript    |
 | 2022-09-06 | [Microsoft.AspNetCore.SystemWebAdapters]https://github.com/dotnet/systemweb-adapters)                                                 | #AspNetCore    |
+| 2022-10-22 | [There's a URL input type](https://twitter.com/sajid_curious/status/1583785138575446016?s=46&t=CtxzbanfGEG13t6_kz_44g)                | #HTML            |
