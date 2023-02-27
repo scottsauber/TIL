@@ -33,3 +33,4 @@ Now for what I've learned...👇
 | 2022-09-06 | [Microsoft.AspNetCore.SystemWebAdapters](https://github.com/dotnet/systemweb-adapters)                                                | #AspNetCore      |
 | 2022-10-22 | [There's a URL input type](https://twitter.com/sajid_curious/status/1583785138575446016?s=46&t=CtxzbanfGEG13t6_kz_44g)                | #HTML            |
 | 2023-02-05 | [PdfPig](https://uglytoad.github.io/PdfPig/)                                                                                          | #DotNet         |
+| 2023-02-26 | [Terrafy](https://uglytoad.github.io/PdfPig/](https://github.com/Azure/aztfy) for importing Azure resources to TF                     | #Azure          |
