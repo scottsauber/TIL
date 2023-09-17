@@ -35,3 +35,5 @@ Now for what I've learned...👇
 | 2023-02-05 | [PdfPig](https://uglytoad.github.io/PdfPig/)                                                                                          | #DotNet          |
 | 2023-02-26 | [Terrafy](https://github.com/Azure/aztfy) for importing Azure resources to TF                                                         | #Azure           |
 | 2023-09-16 | [Content Creation Tips](https://twitter.com/jayclouse/status/1614770790796517377?s=46&t=OVV_a84B6IH3G7oiL2U6nA)                       | #Content         |
+| 2023-09-16 | [Subnetting Mastery](https://www.practicalnetworking.net/stand-alone/subnetting-mastery/)                                             | #Networking      |
+
